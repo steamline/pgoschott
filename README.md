@@ -9,6 +9,6 @@ nicht niedriger als 3000ms delay haben bei aktionen und alles sollte ok sein.
 
 
 
------- necrobot -------
+-------
 diese version wurde überarbeitet von mir (steamline)
-credits by necrobot
+credits by necrobot -------
